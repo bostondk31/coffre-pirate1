@@ -71,7 +71,7 @@
     </div>
 
     <!-- Balise audio -->
-    <audio id="treasureSound" src="Treasure Discovery Sound Effect.mp3"></audio>
+    <audio id="treasureSound" src="https://github.com/bostondk31/coffre-pirate/raw/main/Treasure%20Discovery%20Sound%20Effect.mp3"></audio>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -83,4 +83,3 @@
     </script>
 </body>
 </html>
-
